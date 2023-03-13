@@ -14,3 +14,8 @@ tips.push({
 		'</div>'
 	]
 });
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|   hh            |
+|     2|    hh           |
+|     3|   hh            |
